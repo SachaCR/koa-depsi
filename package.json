@@ -6,6 +6,14 @@
   "scripts": {
     "test": ""
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SachaCR/koa-depsi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SachaCR/koa-depsi/issues"
+  },
+  "homepage": "https://github.com/SachaCR/koa-depsi#readme",
   "keywords": [
     "koa",
     "dependencies",
